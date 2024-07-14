@@ -30,10 +30,9 @@ Deploy the application on Cloudflare or Vercel:
 
 #### Video Demonstration
 
-Record a short video (20-30 seconds) showing the Oracle Aggregator fetching and displaying the price.
+A short video (20-30 seconds) showing the Oracle Aggregator fetching and displaying the price.
 
 ### Summary
 
-By following the steps above, you can build and deploy the Oracle Aggregator using pure JavaScript, HTML, and CSS
-
+By following the steps above, you can view, build, test and deploy the Oracle Aggregator. Best regards...
 
