@@ -1,0 +1,88 @@
+/* <style> */
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom right, #343434, #000);
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-image: url('2.gif'); 
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .meme-coins {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .meme-coins img {
+            width: 80px;
+            height: 80px;
+            margin: 0 10px;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 2px solid transparent;
+        }
+
+        .meme-coins img:hover {
+            border: 2px solid #fff;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            max-width: 1000px;
+            margin: 20px auto;
+        }
+
+        .box {
+            width: 45%;
+            background-color: rgba(14, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+            margin-bottom: 20px;
+            overflow-y: auto;
+            max-height: 400px;
+            font-weight: bold;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .box h2 {
+            margin-top: 0;
+            font-size: 1.2em;
+        }
+
+        .box p {
+            margin: 5px 0;
+        }
+
+        .box .timestamp {
+            font-size: 0.9em;
+            color: #ccc;
+        }
+
+        .loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .loader img {
+            width: 80px;
+            height: 80px;
+        }
+    /* </style> */
