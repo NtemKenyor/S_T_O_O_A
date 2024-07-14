@@ -14,9 +14,12 @@ A DeFi application that fetches price feeds from multiple oracles, calculates an
    cd oracle-aggregator```
 2. Open index.html in your browser to view the application.
 
+## Screenshots
+
+![Screenshot](Capture.PNG)
 
 ## Video Demonstration
-Link to the video demonstrating the Oracle Aggregator in action.
+Link to the video demonstrating the Oracle Aggregator in action: https://youtu.be/p6vQY46ZvlA
 
 ## License
 This project is licensed under the MIT License.
